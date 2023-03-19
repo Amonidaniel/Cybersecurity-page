@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cybersecurity-page/static/css/main.78ec6781.css",
+    "main.js": "/Cybersecurity-page/static/js/main.46332357.js",
+    "index.html": "/Cybersecurity-page/index.html",
+    "main.78ec6781.css.map": "/Cybersecurity-page/static/css/main.78ec6781.css.map",
+    "main.46332357.js.map": "/Cybersecurity-page/static/js/main.46332357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78ec6781.css",
+    "static/js/main.46332357.js"
+  ]
+}
